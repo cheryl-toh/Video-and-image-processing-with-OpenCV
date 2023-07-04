@@ -11,3 +11,5 @@ Part B:
 - identify and extract all paragraphs
 - sort paragraphs in correct order
 - ignore tables (do not extract)
+
+Link to demonstration of our code: https://youtu.be/hOGsluuA5Cs
